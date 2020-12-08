@@ -1,0 +1,6 @@
+Hassan Aden, 121, hassan@gmail.com, 40000
+John Deen, 221, john@gmail.com, 50000
+Alen Qubar, 321, alen@gmail.com, 30000
+Emily Hudson, 421, emily@gmail.com, 80000
+Jacob Morrison, 521, jacob@gmail.com, 90000
+Vali Cobe, 621, vali@gmail.com, 600000
